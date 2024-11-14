@@ -287,6 +287,6 @@ To deploy, you can:
 
 ## Conclusion
 
-In this extended Docker tutorial, we've covered everything from basic Docker usage to more advanced concepts like multi-stage builds, Docker networking, and deploying applications in production. Docker is a powerful tool that can help you streamline your development workflow and ensure consistency across environments.
+In this Docker tutorial, we've covered everything from basic Docker usage to more advanced concepts like multi-stage builds, Docker networking, and deploying applications in production. Docker is a powerful tool that can help you streamline your development workflow and ensure consistency across environments.
 
 Feel free to contribute to this repository, share your feedback, or open issues if you have any questions. Happy Dockering! 🚢
